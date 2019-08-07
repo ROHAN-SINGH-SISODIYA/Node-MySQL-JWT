@@ -1,4 +1,4 @@
-# Node-MySQL-Signup-Login-RESTful-API
+# Node-MySQL-JWT
 
 ### This repo is an example of Login-SignUP  API with NODE.js AND MYSQL and JWT(JSON Web Token) Authentication. 
 ## Setting up Project 
