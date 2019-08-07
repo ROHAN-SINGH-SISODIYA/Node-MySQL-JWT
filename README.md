@@ -4,17 +4,12 @@
 ## Setting up Project 
 Open Terminal
 
- `git clone  https://github.com/akhilpy/Node-MySQL-JWT-Signup-Login-API.git`
+ `https://github.com/ROHAN-SINGH-SISODIYA/Node-MySQL-JWT.git`
 
  
  ` cd YourProjectFolderName`
  
 ` npm install`
-
-Open MySQL Client Application (phpmyadmin/sqlManager)
-Create Database and Import `users.sql` file.
-
-Then Back to terminal and run following command 
 
 `node server.js`
 
